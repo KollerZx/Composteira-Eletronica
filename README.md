@@ -4,4 +4,8 @@
   Para a construção do Protótipo foram utilizados os seguintes componentes de hardware:
   
   <h3>Arduino UNO</h3>
-  <h3>Sensor de Temperatura DHT11</h3>
+  <h3>Sensor de Temperatura e Umidade - DHT11</h3>
+  <h3> Relé 2 canais 5Vdc</h3>
+  <h3> Cooler 120mm 12v</h3>
+  <h3> Lâmpada incandescente de 40w </h3>
+  <h3> 1 Resistor 1,5k, 1 transistor BC 140 </h3>
