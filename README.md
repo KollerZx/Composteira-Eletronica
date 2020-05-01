@@ -9,3 +9,4 @@
   <h3> Cooler 120mm 12v</h3>
   <h3> Lâmpada incandescente de 40w </h3>
   <h3> 1 Resistor 1,5k, 1 transistor BC 140 </h3>
+  <h3> LCD 16x2 </h3>
