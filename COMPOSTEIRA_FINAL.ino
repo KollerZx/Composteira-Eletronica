@@ -8,11 +8,11 @@ LiquidCrystal_I2C lcd(0x3F,16,2);  // posiciona o endereço lcd
 #include <DHT.h>
 #include <DHT_U.h>
 
-int DHTPIN   =         2 ;        // Pin which is connected to the DHT sensor.
+int DHTPIN   =         2 ;        // Pin que esta conectado o DHT sensor.
 int temperatura = 0;
 int umidade = 0;
 
-#define DHTTYPE           DHT11     // DHT 11
+#define DHTTYPE           DHT11    
 
 
 DHT_Unified dht(DHTPIN, DHTTYPE);
